@@ -1,0 +1,2 @@
+# manaba2teams
+manaba履修登録データをTeams登録用に変換
